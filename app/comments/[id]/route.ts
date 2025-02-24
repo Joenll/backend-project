@@ -27,6 +27,7 @@ export async function PATCH(request: Request, {params}:
 
 
 }
+// for delete
 
 export async function DELETE(request:Request, {params}:
     {
